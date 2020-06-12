@@ -4,12 +4,12 @@
 
 O Deno é um novo runtime segura para JavaScript e TypeScript.
 
-Tendo o Deno
+Tendo o Deno instalado, execute:
 
     deno run --allow-net main.js
 
+Abre em seu navegador http://localhost:8000/
 
-http://localhost:8000/
 
 ### Segundo hello world
 
